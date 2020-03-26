@@ -1,0 +1,14 @@
+{
+   "references_data":"input_data/references_data.txt",
+   "output_path":"output_data/article_embeddings.bin",
+   "model":{
+      "sg":1,
+      "min_count":3,
+      "size":80,
+      "window":6,
+      "workers":4,
+      "hs":1,
+      "negative":0,
+      "iter":15
+   }
+}
