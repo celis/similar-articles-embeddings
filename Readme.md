@@ -6,7 +6,7 @@ See [here](https://celis.github.io/personal/jupyter/2020/02/20/hep-recommender.h
 
 The embeddings are used by the [hep-recommender](https://www.hep-recommender.com) web application
 to provide similar article recommendations in the field of 
-High Energy Physics.   The web application can be found in [this](https://github.com/celis/hep-recommender) repository.
+High Energy Physics.
 
 
 ### Usage: 
