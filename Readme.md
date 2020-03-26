@@ -2,7 +2,7 @@
 
 This project trains embeddings for scientific articles
 using data collected from the INSPIRE-HEP API.  
-See [here](https://celis.github.io/personal/recommender/gensim/python/aws/flask/2020/02/20/hep-recommender.html) for more details about the project.
+See [here](https://celis.github.io/personal/jupyter/2020/02/20/hep-recommender.html) for more details about the project.
 
 The embeddings are used by the [hep-recommender](https://www.hep-recommender.com) web application
 to provide similar article recommendations in the field of 
